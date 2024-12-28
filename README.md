@@ -1,16 +1,4 @@
-# googlemaps
+Software Engineering Project Leader
+Led the development of a car-parking android app using Flutter with integrated Google Maps API to show real-time space availability of carparks near destination, in addition to displaying traffic-aware routes with toll fee and fuel consumption information
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.canva.com/design/DAGCfXaFNP0/IYImhhYnhJqp8ZyZW9pTGA/edit
